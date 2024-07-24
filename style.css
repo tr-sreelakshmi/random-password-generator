@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: rgb(253, 239, 253);
+}
+
+.box{
+    border: 2px solid rgb(249, 220, 249);
+    height: 250px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgb(255, 211, 255);
+}
+h1{
+    color: rgb(113, 17, 154);
+}
+
+ 
+span{
+    font-size: 1em;
+    padding: 20px 40px;
+  box-shadow:1px  1px  2px pink ;
+    border: 1px solid pink ;
+}
